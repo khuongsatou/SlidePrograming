@@ -1,0 +1,7 @@
+D:\Learn\CodeCshape\QuanLiBanHang\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Learn\CodeCshape\QuanLiBanHang\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Learn\CodeCshape\QuanLiBanHang\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\Learn\CodeCshape\QuanLiBanHang\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Learn\CodeCshape\QuanLiBanHang\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Learn\CodeCshape\QuanLiBanHang\DataAccessLayer\bin\Debug\ValueObject.dll
+D:\Learn\CodeCshape\QuanLiBanHang\DataAccessLayer\bin\Debug\ValueObject.pdb

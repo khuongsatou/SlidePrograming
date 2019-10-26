@@ -1,0 +1,11 @@
+D:\Yui\AccessDB\bin\Debug\AccessDB.exe.config
+D:\Yui\AccessDB\bin\Debug\AccessDB.exe
+D:\Yui\AccessDB\bin\Debug\AccessDB.pdb
+D:\Yui\AccessDB\obj\Debug\AccessDB.csprojResolveAssemblyReference.cache
+D:\Yui\AccessDB\obj\Debug\AccessDB.Form1.resources
+D:\Yui\AccessDB\obj\Debug\AccessDB.Form2.resources
+D:\Yui\AccessDB\obj\Debug\AccessDB.Properties.Resources.resources
+D:\Yui\AccessDB\obj\Debug\AccessDB.csproj.GenerateResource.Cache
+D:\Yui\AccessDB\obj\Debug\AccessDB.exe
+D:\Yui\AccessDB\obj\Debug\AccessDB.pdb
+D:\Yui\AccessDB\obj\Debug\AccessDB.Form3.resources

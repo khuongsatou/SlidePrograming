@@ -1,0 +1,8 @@
+D:\KhuongSatou\TinhChuViVaDienTichHCN\bin\Debug\TinhChuViVaDienTichHCN.exe.config
+D:\KhuongSatou\TinhChuViVaDienTichHCN\obj\Debug\TinhChuViVaDienTichHCN.Form1.resources
+D:\KhuongSatou\TinhChuViVaDienTichHCN\obj\Debug\TinhChuViVaDienTichHCN.Properties.Resources.resources
+D:\KhuongSatou\TinhChuViVaDienTichHCN\obj\Debug\TinhChuViVaDienTichHCN.csproj.GenerateResource.Cache
+D:\KhuongSatou\TinhChuViVaDienTichHCN\bin\Debug\TinhChuViVaDienTichHCN.exe
+D:\KhuongSatou\TinhChuViVaDienTichHCN\bin\Debug\TinhChuViVaDienTichHCN.pdb
+D:\KhuongSatou\TinhChuViVaDienTichHCN\obj\Debug\TinhChuViVaDienTichHCN.exe
+D:\KhuongSatou\TinhChuViVaDienTichHCN\obj\Debug\TinhChuViVaDienTichHCN.pdb

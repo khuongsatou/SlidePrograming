@@ -1,0 +1,9 @@
+D:\KhuongSatou\TinhDiemTrungBinhHocSinh\bin\Debug\TinhDiemTrungBinhHocSinh.exe.config
+D:\KhuongSatou\TinhDiemTrungBinhHocSinh\obj\Debug\TinhDiemTrungBinhHocSinh.csprojResolveAssemblyReference.cache
+D:\KhuongSatou\TinhDiemTrungBinhHocSinh\obj\Debug\TinhDiemTrungBinhHocSinh.Form1.resources
+D:\KhuongSatou\TinhDiemTrungBinhHocSinh\obj\Debug\TinhDiemTrungBinhHocSinh.Properties.Resources.resources
+D:\KhuongSatou\TinhDiemTrungBinhHocSinh\obj\Debug\TinhDiemTrungBinhHocSinh.csproj.GenerateResource.Cache
+D:\KhuongSatou\TinhDiemTrungBinhHocSinh\bin\Debug\TinhDiemTrungBinhHocSinh.exe
+D:\KhuongSatou\TinhDiemTrungBinhHocSinh\bin\Debug\TinhDiemTrungBinhHocSinh.pdb
+D:\KhuongSatou\TinhDiemTrungBinhHocSinh\obj\Debug\TinhDiemTrungBinhHocSinh.exe
+D:\KhuongSatou\TinhDiemTrungBinhHocSinh\obj\Debug\TinhDiemTrungBinhHocSinh.pdb

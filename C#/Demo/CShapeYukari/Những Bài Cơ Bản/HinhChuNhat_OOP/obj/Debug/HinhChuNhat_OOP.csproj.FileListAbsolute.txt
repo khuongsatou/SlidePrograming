@@ -1,0 +1,8 @@
+D:\KhuongSatou\HinhChuNhat_OOP\bin\Debug\HinhChuNhat_OOP.exe.config
+D:\KhuongSatou\HinhChuNhat_OOP\bin\Debug\HinhChuNhat_OOP.exe
+D:\KhuongSatou\HinhChuNhat_OOP\bin\Debug\HinhChuNhat_OOP.pdb
+D:\KhuongSatou\HinhChuNhat_OOP\obj\Debug\HinhChuNhat_OOP.Form1.resources
+D:\KhuongSatou\HinhChuNhat_OOP\obj\Debug\HinhChuNhat_OOP.Properties.Resources.resources
+D:\KhuongSatou\HinhChuNhat_OOP\obj\Debug\HinhChuNhat_OOP.csproj.GenerateResource.Cache
+D:\KhuongSatou\HinhChuNhat_OOP\obj\Debug\HinhChuNhat_OOP.exe
+D:\KhuongSatou\HinhChuNhat_OOP\obj\Debug\HinhChuNhat_OOP.pdb

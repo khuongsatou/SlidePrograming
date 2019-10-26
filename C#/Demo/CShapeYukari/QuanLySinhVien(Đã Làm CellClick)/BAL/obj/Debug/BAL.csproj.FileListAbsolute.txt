@@ -1,0 +1,27 @@
+D:\CDTH17D\QuanLySinhVien\BAL\bin\Debug\BAL.dll
+D:\CDTH17D\QuanLySinhVien\BAL\bin\Debug\BAL.pdb
+D:\CDTH17D\QuanLySinhVien\BAL\bin\Debug\DAL.dll
+D:\CDTH17D\QuanLySinhVien\BAL\bin\Debug\DAL.pdb
+D:\CDTH17D\QuanLySinhVien\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+D:\CDTH17D\QuanLySinhVien\BAL\obj\Debug\BAL.dll
+D:\CDTH17D\QuanLySinhVien\BAL\obj\Debug\BAL.pdb
+D:\CDTH17D\QuanLySinhVien\BAL\bin\Debug\BEL.dll
+D:\CDTH17D\QuanLySinhVien\BAL\bin\Debug\BEL.pdb
+D:\HVH_C#\QuanLySinhVien\BAL\bin\Debug\BAL.dll
+D:\HVH_C#\QuanLySinhVien\BAL\bin\Debug\BAL.pdb
+D:\HVH_C#\QuanLySinhVien\BAL\bin\Debug\BEL.dll
+D:\HVH_C#\QuanLySinhVien\BAL\bin\Debug\DAL.dll
+D:\HVH_C#\QuanLySinhVien\BAL\bin\Debug\BEL.pdb
+D:\HVH_C#\QuanLySinhVien\BAL\bin\Debug\DAL.pdb
+D:\HVH_C#\QuanLySinhVien\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+D:\HVH_C#\QuanLySinhVien\BAL\obj\Debug\BAL.dll
+D:\HVH_C#\QuanLySinhVien\BAL\obj\Debug\BAL.pdb
+E:\Tài liệu\USB\New folder\QuanLySinhVien\BAL\bin\Debug\BAL.dll
+E:\Tài liệu\USB\New folder\QuanLySinhVien\BAL\bin\Debug\BAL.pdb
+E:\Tài liệu\USB\New folder\QuanLySinhVien\BAL\bin\Debug\BEL.dll
+E:\Tài liệu\USB\New folder\QuanLySinhVien\BAL\bin\Debug\DAL.dll
+E:\Tài liệu\USB\New folder\QuanLySinhVien\BAL\bin\Debug\BEL.pdb
+E:\Tài liệu\USB\New folder\QuanLySinhVien\BAL\bin\Debug\DAL.pdb
+E:\Tài liệu\USB\New folder\QuanLySinhVien\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+E:\Tài liệu\USB\New folder\QuanLySinhVien\BAL\obj\Debug\BAL.dll
+E:\Tài liệu\USB\New folder\QuanLySinhVien\BAL\obj\Debug\BAL.pdb

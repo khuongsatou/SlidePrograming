@@ -1,0 +1,9 @@
+D:\Learn\CodeCshape\ThreeLayer_2_4_2019\BAL\bin\Debug\BAL.dll
+D:\Learn\CodeCshape\ThreeLayer_2_4_2019\BAL\bin\Debug\BAL.pdb
+D:\Learn\CodeCshape\ThreeLayer_2_4_2019\BAL\bin\Debug\BEL.dll
+D:\Learn\CodeCshape\ThreeLayer_2_4_2019\BAL\bin\Debug\DAL.dll
+D:\Learn\CodeCshape\ThreeLayer_2_4_2019\BAL\bin\Debug\BEL.pdb
+D:\Learn\CodeCshape\ThreeLayer_2_4_2019\BAL\bin\Debug\DAL.pdb
+D:\Learn\CodeCshape\ThreeLayer_2_4_2019\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+D:\Learn\CodeCshape\ThreeLayer_2_4_2019\BAL\obj\Debug\BAL.dll
+D:\Learn\CodeCshape\ThreeLayer_2_4_2019\BAL\obj\Debug\BAL.pdb

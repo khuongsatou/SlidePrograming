@@ -1,0 +1,5 @@
+D:\Learn\CodeCshape\QuanLiBanHang\ValueObject\bin\Debug\ValueObject.dll
+D:\Learn\CodeCshape\QuanLiBanHang\ValueObject\bin\Debug\ValueObject.pdb
+D:\Learn\CodeCshape\QuanLiBanHang\ValueObject\obj\Debug\ValueObject.csprojResolveAssemblyReference.cache
+D:\Learn\CodeCshape\QuanLiBanHang\ValueObject\obj\Debug\ValueObject.dll
+D:\Learn\CodeCshape\QuanLiBanHang\ValueObject\obj\Debug\ValueObject.pdb

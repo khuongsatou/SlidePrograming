@@ -1,0 +1,8 @@
+D:\Learn\CodeCshape\QuanLiBanHang\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\Learn\CodeCshape\QuanLiBanHang\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\Learn\CodeCshape\QuanLiBanHang\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+D:\Learn\CodeCshape\QuanLiBanHang\BusinessLogicLayer\bin\Debug\ValueObject.dll
+D:\Learn\CodeCshape\QuanLiBanHang\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\Learn\CodeCshape\QuanLiBanHang\BusinessLogicLayer\bin\Debug\ValueObject.pdb
+D:\Learn\CodeCshape\QuanLiBanHang\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\Learn\CodeCshape\QuanLiBanHang\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

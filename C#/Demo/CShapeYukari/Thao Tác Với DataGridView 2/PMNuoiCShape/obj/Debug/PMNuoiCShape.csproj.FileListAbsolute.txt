@@ -1,0 +1,10 @@
+D:\YuKaRiChieu\PMNuoiCShape\bin\Debug\PMNuoiCShape.exe.config
+D:\YuKaRiChieu\PMNuoiCShape\bin\Debug\PMNuoiCShape.exe
+D:\YuKaRiChieu\PMNuoiCShape\bin\Debug\PMNuoiCShape.pdb
+D:\YuKaRiChieu\PMNuoiCShape\obj\Debug\PMNuoiCShape.csprojResolveAssemblyReference.cache
+D:\YuKaRiChieu\PMNuoiCShape\obj\Debug\PMNuoiCShape.Form1.resources
+D:\YuKaRiChieu\PMNuoiCShape\obj\Debug\PMNuoiCShape.Properties.Resources.resources
+D:\YuKaRiChieu\PMNuoiCShape\obj\Debug\PMNuoiCShape.csproj.GenerateResource.Cache
+D:\YuKaRiChieu\PMNuoiCShape\obj\Debug\PMNuoiCShape.exe
+D:\YuKaRiChieu\PMNuoiCShape\obj\Debug\PMNuoiCShape.pdb
+D:\YuKaRiChieu\PMNuoiCShape\obj\Debug\PMNuoiCShape.Form2.resources

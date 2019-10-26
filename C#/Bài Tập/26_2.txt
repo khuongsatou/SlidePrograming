@@ -1,0 +1,27 @@
+﻿
+--Sáng--
+tạo ListBox
+Bắt sự kiện list Box
+Add values vào ListBox 
+Remove 
+Chuyển qua lại 2 ListBox
+
+Radio Màu sắc 
+Color text
+Font Text
+
+Random số
+...
+--Chiều--
+Hộp thoai font,color
+menuTrip
+Bắt sự kiện cho menu
+Bắt Chuột trái
+Bắt phím tắt
+On press
+rick textBox
+đọc file text
+open
+save
+close
+disable

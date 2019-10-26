@@ -1,0 +1,5 @@
+D:\Learn\CodeCshape\ThreeLayer_2_4_2019\BEL\bin\Debug\BEL.dll
+D:\Learn\CodeCshape\ThreeLayer_2_4_2019\BEL\bin\Debug\BEL.pdb
+D:\Learn\CodeCshape\ThreeLayer_2_4_2019\BEL\obj\Debug\BEL.csprojResolveAssemblyReference.cache
+D:\Learn\CodeCshape\ThreeLayer_2_4_2019\BEL\obj\Debug\BEL.dll
+D:\Learn\CodeCshape\ThreeLayer_2_4_2019\BEL\obj\Debug\BEL.pdb

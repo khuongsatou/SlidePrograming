@@ -1,0 +1,9 @@
+D:\Learn\CodeCshape\Basic_start\is_sizeof\bin\Debug\is_sizeof.exe.config
+D:\Learn\CodeCshape\Basic_start\is_sizeof\bin\Debug\is_sizeof.exe
+D:\Learn\CodeCshape\Basic_start\is_sizeof\bin\Debug\is_sizeof.pdb
+D:\Learn\CodeCshape\Basic_start\is_sizeof\obj\Debug\is_sizeof.csprojResolveAssemblyReference.cache
+D:\Learn\CodeCshape\Basic_start\is_sizeof\obj\Debug\is_sizeof.exe
+D:\Learn\CodeCshape\Basic_start\is_sizeof\obj\Debug\is_sizeof.pdb
+D:\Learn\CodeCshape\Basic_start\is_sizeofa\bin\Debug\is_sizeof.exe.config
+D:\Learn\CodeCshape\Basic_start\is_sizeofa\obj\Debug\is_sizeof.exe
+D:\Learn\CodeCshape\Basic_start\is_sizeofa\obj\Debug\is_sizeof.pdb

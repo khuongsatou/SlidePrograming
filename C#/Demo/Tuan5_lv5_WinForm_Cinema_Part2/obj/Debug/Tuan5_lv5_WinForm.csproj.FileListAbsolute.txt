@@ -1,0 +1,10 @@
+D:\Learn\CodeCshape\Basic_start\Tuan5_lv5_WinForm\bin\Debug\Tuan5_lv5_WinForm.exe.config
+D:\Learn\CodeCshape\Basic_start\Tuan5_lv5_WinForm\bin\Debug\Tuan5_lv5_WinForm.exe
+D:\Learn\CodeCshape\Basic_start\Tuan5_lv5_WinForm\bin\Debug\Tuan5_lv5_WinForm.pdb
+D:\Learn\CodeCshape\Basic_start\Tuan5_lv5_WinForm\obj\Debug\Tuan5_lv5_WinForm.csprojResolveAssemblyReference.cache
+D:\Learn\CodeCshape\Basic_start\Tuan5_lv5_WinForm\obj\Debug\Tuan5_lv5_WinForm.Properties.Resources.resources
+D:\Learn\CodeCshape\Basic_start\Tuan5_lv5_WinForm\obj\Debug\Tuan5_lv5_WinForm.csproj.GenerateResource.Cache
+D:\Learn\CodeCshape\Basic_start\Tuan5_lv5_WinForm\obj\Debug\Tuan5_lv5_WinForm.exe
+D:\Learn\CodeCshape\Basic_start\Tuan5_lv5_WinForm\obj\Debug\Tuan5_lv5_WinForm.pdb
+D:\Learn\CodeCshape\Basic_start\Tuan5_lv5_WinForm\obj\Debug\Tuan5_lv5_WinForm.frmDatVeXemPhim.resources
+D:\Learn\CodeCshape\Basic_start\Tuan5_lv5_WinForm\obj\Debug\Tuan5_lv5_WinForm.frmSecurityCode.resources

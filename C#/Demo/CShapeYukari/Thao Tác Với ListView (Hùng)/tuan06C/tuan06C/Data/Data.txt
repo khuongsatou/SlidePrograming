@@ -1,0 +1,6 @@
+﻿001	Tạ Quốc Bảo	234 Vạn Kiếp	02/14/2019	CDTH17D
+002	Hà Văn Hóa	Đồng Nai	02/14/2019	CDTH17A
+003	Võ Hoàng Phi Hùng	Bình Dương	02/14/2019	CDTH17C
+004	Phạm Thiện Đoan Trang	Bùi Đình Túy	02/14/2019	CDTH17D
+005	Đinh Trung Hiếu	asd	02/14/2019	CDTH17D
+006	Hùng	Dubai	3/19/2019	CDTH17B

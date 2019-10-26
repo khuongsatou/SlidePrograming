@@ -1,0 +1,11 @@
+D:\YuKaRi\ChuongTringXuLiChuoi\ChuongTringXuLiChuoi\bin\Debug\ChuongTringXuLiChuoi.exe.config
+D:\YuKaRi\ChuongTringXuLiChuoi\ChuongTringXuLiChuoi\bin\Debug\ChuongTringXuLiChuoi.exe
+D:\YuKaRi\ChuongTringXuLiChuoi\ChuongTringXuLiChuoi\bin\Debug\ChuongTringXuLiChuoi.pdb
+D:\YuKaRi\ChuongTringXuLiChuoi\ChuongTringXuLiChuoi\obj\Debug\ChuongTringXuLiChuoi.csprojResolveAssemblyReference.cache
+D:\YuKaRi\ChuongTringXuLiChuoi\ChuongTringXuLiChuoi\obj\Debug\ChuongTringXuLiChuoi.Form1.resources
+D:\YuKaRi\ChuongTringXuLiChuoi\ChuongTringXuLiChuoi\obj\Debug\ChuongTringXuLiChuoi.Properties.Resources.resources
+D:\YuKaRi\ChuongTringXuLiChuoi\ChuongTringXuLiChuoi\obj\Debug\ChuongTringXuLiChuoi.csproj.GenerateResource.Cache
+D:\YuKaRi\ChuongTringXuLiChuoi\ChuongTringXuLiChuoi\obj\Debug\ChuongTringXuLiChuoi.exe
+D:\YuKaRi\ChuongTringXuLiChuoi\ChuongTringXuLiChuoi\obj\Debug\ChuongTringXuLiChuoi.pdb
+D:\YuKaRi\ChuongTringXuLiChuoi\ChuongTringXuLiChuoi\obj\Debug\ChuongTringXuLiChuoi.Form2.resources
+D:\YuKaRi\ChuongTringXuLiChuoi\ChuongTringXuLiChuoi\obj\Debug\ChuongTringXuLiChuoi.Form3.resources

@@ -1,0 +1,10 @@
+D:\Learn\CodeCshape\Basic_start\Tuan4_lv4_winfrom\bin\Debug\Tuan4_lv4_winfrom.exe.config
+D:\Learn\CodeCshape\Basic_start\Tuan4_lv4_winfrom\bin\Debug\Tuan4_lv4_winfrom.exe
+D:\Learn\CodeCshape\Basic_start\Tuan4_lv4_winfrom\bin\Debug\Tuan4_lv4_winfrom.pdb
+D:\Learn\CodeCshape\Basic_start\Tuan4_lv4_winfrom\obj\Debug\Tuan4_lv4_winfrom.csprojResolveAssemblyReference.cache
+D:\Learn\CodeCshape\Basic_start\Tuan4_lv4_winfrom\obj\Debug\Tuan4_lv4_winfrom.Properties.Resources.resources
+D:\Learn\CodeCshape\Basic_start\Tuan4_lv4_winfrom\obj\Debug\Tuan4_lv4_winfrom.csproj.GenerateResource.Cache
+D:\Learn\CodeCshape\Basic_start\Tuan4_lv4_winfrom\obj\Debug\Tuan4_lv4_winfrom.exe
+D:\Learn\CodeCshape\Basic_start\Tuan4_lv4_winfrom\obj\Debug\Tuan4_lv4_winfrom.pdb
+D:\Learn\CodeCshape\Basic_start\Tuan4_lv4_winfrom\obj\Debug\Tuan4_lv4_winfrom.CheckBox4Chieu.resources
+D:\Learn\CodeCshape\Basic_start\Tuan4_lv4_winfrom\obj\Debug\Tuan4_lv4_winfrom.DatVeXemPhim.resources

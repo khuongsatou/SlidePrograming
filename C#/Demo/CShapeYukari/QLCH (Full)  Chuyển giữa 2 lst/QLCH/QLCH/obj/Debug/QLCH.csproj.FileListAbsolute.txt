@@ -1,0 +1,15 @@
+D:\CDTH17D\QLCH\QLCH\bin\Debug\QLCH.exe.config
+D:\CDTH17D\QLCH\QLCH\bin\Debug\QLCH.exe
+D:\CDTH17D\QLCH\QLCH\bin\Debug\QLCH.pdb
+D:\CDTH17D\QLCH\QLCH\obj\Debug\QLCH.csprojResolveAssemblyReference.cache
+D:\CDTH17D\QLCH\QLCH\obj\Debug\QLCH.Form1.resources
+D:\CDTH17D\QLCH\QLCH\obj\Debug\QLCH.Properties.Resources.resources
+D:\CDTH17D\QLCH\QLCH\obj\Debug\QLCH.csproj.GenerateResource.Cache
+D:\CDTH17D\QLCH\QLCH\obj\Debug\QLCH.exe
+D:\CDTH17D\QLCH\QLCH\obj\Debug\QLCH.pdb
+E:\usb\23_TranLeNam\QLCH\QLCH\bin\Debug\QLCH.exe.config
+E:\usb\23_TranLeNam\QLCH\QLCH\obj\Debug\QLCH.exe
+E:\usb\23_TranLeNam\QLCH\QLCH\obj\Debug\QLCH.pdb
+E:\Tài liệu\CShapeYukari\QLCH (Full)  Chuyển giữa 2 lst\QLCH\QLCH\bin\Debug\QLCH.exe.config
+E:\Tài liệu\CShapeYukari\QLCH (Full)  Chuyển giữa 2 lst\QLCH\QLCH\obj\Debug\QLCH.exe
+E:\Tài liệu\CShapeYukari\QLCH (Full)  Chuyển giữa 2 lst\QLCH\QLCH\obj\Debug\QLCH.pdb

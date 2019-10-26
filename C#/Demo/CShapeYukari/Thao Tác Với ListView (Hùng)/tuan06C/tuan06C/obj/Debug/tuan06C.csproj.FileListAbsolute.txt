@@ -1,0 +1,9 @@
+D:\cdth17d\tuan06C\tuan06C\bin\Debug\tuan06C.exe.config
+D:\cdth17d\tuan06C\tuan06C\bin\Debug\tuan06C.exe
+D:\cdth17d\tuan06C\tuan06C\bin\Debug\tuan06C.pdb
+D:\cdth17d\tuan06C\tuan06C\obj\Debug\tuan06C.csprojResolveAssemblyReference.cache
+D:\cdth17d\tuan06C\tuan06C\obj\Debug\tuan06C.Form1.resources
+D:\cdth17d\tuan06C\tuan06C\obj\Debug\tuan06C.Properties.Resources.resources
+D:\cdth17d\tuan06C\tuan06C\obj\Debug\tuan06C.csproj.GenerateResource.Cache
+D:\cdth17d\tuan06C\tuan06C\obj\Debug\tuan06C.exe
+D:\cdth17d\tuan06C\tuan06C\obj\Debug\tuan06C.pdb

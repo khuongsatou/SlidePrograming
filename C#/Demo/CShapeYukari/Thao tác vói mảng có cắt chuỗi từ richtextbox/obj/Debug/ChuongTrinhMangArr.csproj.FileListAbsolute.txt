@@ -1,0 +1,9 @@
+D:\YuKaRiChan\ChuongTrinhMangArr\bin\Debug\ChuongTrinhMangArr.exe.config
+D:\YuKaRiChan\ChuongTrinhMangArr\obj\Debug\ChuongTrinhMangArr.csprojResolveAssemblyReference.cache
+D:\YuKaRiChan\ChuongTrinhMangArr\obj\Debug\ChuongTrinhMangArr.Form1.resources
+D:\YuKaRiChan\ChuongTrinhMangArr\obj\Debug\ChuongTrinhMangArr.Properties.Resources.resources
+D:\YuKaRiChan\ChuongTrinhMangArr\obj\Debug\ChuongTrinhMangArr.csproj.GenerateResource.Cache
+D:\YuKaRiChan\ChuongTrinhMangArr\bin\Debug\ChuongTrinhMangArr.exe
+D:\YuKaRiChan\ChuongTrinhMangArr\bin\Debug\ChuongTrinhMangArr.pdb
+D:\YuKaRiChan\ChuongTrinhMangArr\obj\Debug\ChuongTrinhMangArr.exe
+D:\YuKaRiChan\ChuongTrinhMangArr\obj\Debug\ChuongTrinhMangArr.pdb

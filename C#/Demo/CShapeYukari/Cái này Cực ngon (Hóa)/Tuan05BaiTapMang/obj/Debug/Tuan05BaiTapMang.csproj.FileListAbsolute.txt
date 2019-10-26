@@ -1,0 +1,10 @@
+D:\Tuan04\Tuan05BaiTapMang\Tuan05BaiTapMang\bin\Debug\Tuan05BaiTapMang.exe.config
+D:\Tuan04\Tuan05BaiTapMang\Tuan05BaiTapMang\bin\Debug\Tuan05BaiTapMang.exe
+D:\Tuan04\Tuan05BaiTapMang\Tuan05BaiTapMang\bin\Debug\Tuan05BaiTapMang.pdb
+D:\Tuan04\Tuan05BaiTapMang\Tuan05BaiTapMang\obj\Debug\Tuan05BaiTapMang.csprojResolveAssemblyReference.cache
+D:\Tuan04\Tuan05BaiTapMang\Tuan05BaiTapMang\obj\Debug\Tuan05BaiTapMang.Form1.resources
+D:\Tuan04\Tuan05BaiTapMang\Tuan05BaiTapMang\obj\Debug\Tuan05BaiTapMang.Properties.Resources.resources
+D:\Tuan04\Tuan05BaiTapMang\Tuan05BaiTapMang\obj\Debug\Tuan05BaiTapMang.csproj.GenerateResource.Cache
+D:\Tuan04\Tuan05BaiTapMang\Tuan05BaiTapMang\obj\Debug\Tuan05BaiTapMang.exe
+D:\Tuan04\Tuan05BaiTapMang\Tuan05BaiTapMang\obj\Debug\Tuan05BaiTapMang.pdb
+D:\Tuan04\Tuan05BaiTapMang\Tuan05BaiTapMang\obj\Debug\Tuan05BaiTapMang.Form2.resources

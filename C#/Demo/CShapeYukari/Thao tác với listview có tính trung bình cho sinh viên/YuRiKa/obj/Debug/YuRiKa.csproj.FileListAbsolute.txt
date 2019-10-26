@@ -1,0 +1,18 @@
+D:\YuKaRi\YuRiKa\bin\Debug\YuRiKa.exe.config
+D:\YuKaRi\YuRiKa\bin\Debug\YuRiKa.exe
+D:\YuKaRi\YuRiKa\bin\Debug\YuRiKa.pdb
+D:\YuKaRi\YuRiKa\obj\Debug\YuRiKa.csprojResolveAssemblyReference.cache
+D:\YuKaRi\YuRiKa\obj\Debug\YuRiKa.Form1.resources
+D:\YuKaRi\YuRiKa\obj\Debug\YuRiKa.Properties.Resources.resources
+D:\YuKaRi\YuRiKa\obj\Debug\YuRiKa.csproj.GenerateResource.Cache
+D:\YuKaRi\YuRiKa\obj\Debug\YuRiKa.exe
+D:\YuKaRi\YuRiKa\obj\Debug\YuRiKa.pdb
+E:\Zip Save\new 27-3\1\YuKaRi\YuRiKa\bin\Debug\YuRiKa.exe.config
+E:\Zip Save\new 27-3\1\YuKaRi\YuRiKa\obj\Debug\YuRiKa.exe
+E:\Zip Save\new 27-3\1\YuKaRi\YuRiKa\obj\Debug\YuRiKa.pdb
+E:\Zip Save\new 27-3\1\YuKaRi\YuRiKa\bin\Debug\YuRiKa.exe
+E:\Zip Save\new 27-3\1\YuKaRi\YuRiKa\bin\Debug\YuRiKa.pdb
+E:\Zip Save\new 27-3\1\YuKaRi\YuRiKa\obj\Debug\YuRiKa.csprojResolveAssemblyReference.cache
+E:\Zip Save\new 27-3\1\YuKaRi\YuRiKa\obj\Debug\YuRiKa.Form1.resources
+E:\Zip Save\new 27-3\1\YuKaRi\YuRiKa\obj\Debug\YuRiKa.Properties.Resources.resources
+E:\Zip Save\new 27-3\1\YuKaRi\YuRiKa\obj\Debug\YuRiKa.csproj.GenerateResource.Cache

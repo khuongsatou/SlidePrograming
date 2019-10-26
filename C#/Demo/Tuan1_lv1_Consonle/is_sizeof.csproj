@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E1B352F5-01C3-4CD8-B0D0-C31848C51E1E}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>is_sizeof</RootNamespace>
+    <AssemblyName>is_sizeof</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="XemChieuCao.cs" />
+    <None Include="TaoSoNgauNhienHai.cs" />
+    <None Include="TaoSoNgauNhien.cs" />
+    <None Include="TimVaXemDoLaTamGiacGI.cs" />
+    <None Include="TimTamGIac.cs" />
+    <None Include="TimPhanTuTrongToaDo.cs" />
+    <None Include="TimUocChungLN.cs" />
+    <None Include="TimUocChungAVaB.cs" />
+    <None Include="TimMinDKTongNhoHonN.cs" />
+    <None Include="VeHinhTamGiac.cs" />
+    <None Include="SoHoanThien.cs" />
+    <None Include="TinhGiaiThua.cs" />
+    <None Include="SoNguyenDuong.cs" />
+    <None Include="XepHangHocLuc.cs" />
+    <None Include="soChinhPhuong.cs" />
+    <None Include="TinhPhiVanChuyen.cs" />
+    <None Include="TinhFx.cs" />
+    <None Include="ChoBietSoDuongSo0Am.cs" />
+    <None Include="SoNhoNhat3so.cs" />
+    <None Include="TimSoLonNhatTrong3So.cs" />
+    <None Include="TinhToaDo3Diem.cs" />
+    <None Include="TinhGiaTocMayBay.cs" />
+    <None Include="SoNutBangSoXe.cs" />
+    <None Include="TinhTien.cs" />
+    <None Include="TinhTong3chuSo.cs" />
+    <None Include="swap_2_so.cs" />
+    <None Include="TinhGiaTocTrungBinh.cs" />
+    <None Include="TinhYearAndDay.cs" />
+    <None Include="TinhMet.cs" />
+    <None Include="TinhPound.cs" />
+    <None Include="TinhDoCVaF.cs" />
+    <None Include="TinhGiay.cs" />
+    <None Include="TinhHinhTron.cs" />
+    <None Include="TinhHinhVuong.cs" />
+    <None Include="TinhHCN.cs" />
+    <None Include="Program.cs" />
+    <None Include="input.cs" />
+    <None Include="bt1.cs" />
+    <None Include="is_do_while.cs" />
+    <None Include="BaiTho.cs" />
+    <None Include="InRaSoVuaNhap.cs" />
+    <None Include="NhapDiem.cs" />
+    <None Include="NhapSoPhut.cs" />
+    <None Include="NhapToaDo.cs" />
+    <None Include="ChiSoBMI.cs" />
+    <None Include="InSoDuong.cs" />
+    <None Include="KiemTraSoAmDuong.cs" />
+    <None Include="ChiaCho3va5.cs" />
+    <None Include="IsLeafYear.cs" />
+    <None Include="KiemTraDau.cs" />
+    <None Include="PhuongTrinhBatNhat.cs" />
+    <None Include="PhuongTrinhBacHai.cs" />
+    <None Include="NamToDays.cs" />
+    <None Include="NamAndMonthOfDay.cs" />
+    <None Include="DocSoNguyen0To9.cs" />
+    <None Include="DocSoNguyenTu10Den99.cs" />
+    <None Include="InThuRaEnglish.cs" />
+    <None Include="KiemTraGioPhuGiay.cs" />
+    <None Include="DauVaRot.cs" />
+    <None Include="BangTinhToan.cs" />
+    <None Include="ChuongTrinhDocSo100den999.cs" />
+    <None Include="CuaHangBanSanPham.cs" />
+    <None Include="IsSoDoiXung.cs" />
+    <None Include="InBangCuuChuong.cs" />
+    <None Include="InRaMangHinhSoLeLienTiep1DenN.cs" />
+    <None Include="DemBaoNhieuChuSo.cs" />
+    <None Include="IsSoNguyenTo.cs" />
+    <None Include="KiemTraVaDem.cs" />
+    <None Include="InSoDaoNguoc.cs" />
+    <None Include="InHinhVuong.cs" />
+    <None Include="InSoNguyenTo.cs" />
+    <None Include="InSoLuongSNTN.cs" />
+    <None Include="ChuongTrinhIn10SoNguyenToDauTien.cs" />
+    <None Include="BieuThucToanHoc.cs" />
+    <None Include="KiemTraKiTu.cs" />
+    <None Include="NguyenAmVaPhuAm.cs" />
+    <None Include="ChoBietThongTinThoiTiet.cs" />
+    <None Include="ChiCho3Va7.cs" />
+    <None Include="ChiaHetCho3Hoac7.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

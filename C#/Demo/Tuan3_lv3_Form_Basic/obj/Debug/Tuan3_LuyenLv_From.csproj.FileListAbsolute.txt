@@ -1,0 +1,16 @@
+D:\Learn\CodeCshape\Basic_start\Tuan3_LuyenLv_From\bin\Debug\Tuan3_LuyenLv_From.exe.config
+D:\Learn\CodeCshape\Basic_start\Tuan3_LuyenLv_From\bin\Debug\Tuan3_LuyenLv_From.exe
+D:\Learn\CodeCshape\Basic_start\Tuan3_LuyenLv_From\bin\Debug\Tuan3_LuyenLv_From.pdb
+D:\Learn\CodeCshape\Basic_start\Tuan3_LuyenLv_From\obj\Debug\Tuan3_LuyenLv_From.csprojResolveAssemblyReference.cache
+D:\Learn\CodeCshape\Basic_start\Tuan3_LuyenLv_From\obj\Debug\Tuan3_LuyenLv_From.Properties.Resources.resources
+D:\Learn\CodeCshape\Basic_start\Tuan3_LuyenLv_From\obj\Debug\Tuan3_LuyenLv_From.csproj.GenerateResource.Cache
+D:\Learn\CodeCshape\Basic_start\Tuan3_LuyenLv_From\obj\Debug\Tuan3_LuyenLv_From.exe
+D:\Learn\CodeCshape\Basic_start\Tuan3_LuyenLv_From\obj\Debug\Tuan3_LuyenLv_From.pdb
+D:\Learn\CodeCshape\Basic_start\Tuan3_LuyenLv_From\obj\Debug\Tuan3_LuyenLv_From.frmDocSoNguyenDuong3ChuSo.resources
+D:\Learn\CodeCshape\Basic_start\Tuan3_LuyenLv_From\obj\Debug\Tuan3_LuyenLv_From.frmSoLonNhatVaNhoNhat.resources
+D:\Learn\CodeCshape\Basic_start\Tuan3_LuyenLv_From\obj\Debug\Tuan3_LuyenLv_From.frmTinhTong.resources
+D:\Learn\CodeCshape\Basic_start\Tuan3_LuyenLv_From\obj\Debug\Tuan3_LuyenLv_From.frmTinhTong2.resources
+D:\Learn\CodeCshape\Basic_start\Tuan3_LuyenLv_From\obj\Debug\Tuan3_LuyenLv_From.frmTinhTong3.resources
+D:\Learn\CodeCshape\Basic_start\Tuan3_LuyenLv_From\obj\Debug\Tuan3_LuyenLv_From.frmChuongTrinhXuLiChuoi.resources
+D:\Learn\CodeCshape\Basic_start\Tuan3_LuyenLv_From\obj\Debug\Tuan3_LuyenLv_From.frmTaoSoNgauNhien.resources
+D:\Learn\CodeCshape\Basic_start\Tuan3_LuyenLv_From\obj\Debug\Tuan3_LuyenLv_From.frmChuongTrinhXuLiMang1Chieu.resources

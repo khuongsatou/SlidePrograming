@@ -1,0 +1,9 @@
+D:\KhuongSatou\FormCoBan\bin\Debug\FormCoBan.exe.config
+D:\KhuongSatou\FormCoBan\obj\Debug\FormCoBan.csprojResolveAssemblyReference.cache
+D:\KhuongSatou\FormCoBan\obj\Debug\FormCoBan.Form1.resources
+D:\KhuongSatou\FormCoBan\obj\Debug\FormCoBan.Properties.Resources.resources
+D:\KhuongSatou\FormCoBan\obj\Debug\FormCoBan.csproj.GenerateResource.Cache
+D:\KhuongSatou\FormCoBan\bin\Debug\FormCoBan.exe
+D:\KhuongSatou\FormCoBan\bin\Debug\FormCoBan.pdb
+D:\KhuongSatou\FormCoBan\obj\Debug\FormCoBan.exe
+D:\KhuongSatou\FormCoBan\obj\Debug\FormCoBan.pdb

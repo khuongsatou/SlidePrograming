@@ -1,0 +1,9 @@
+D:\Tuan04\BaiTap02\BaiTap02\bin\Debug\BaiTap02.exe.config
+D:\Tuan04\BaiTap02\BaiTap02\bin\Debug\BaiTap02.exe
+D:\Tuan04\BaiTap02\BaiTap02\bin\Debug\BaiTap02.pdb
+D:\Tuan04\BaiTap02\BaiTap02\obj\Debug\BaiTap02.csprojResolveAssemblyReference.cache
+D:\Tuan04\BaiTap02\BaiTap02\obj\Debug\BaiTap02.Form1.resources
+D:\Tuan04\BaiTap02\BaiTap02\obj\Debug\BaiTap02.Properties.Resources.resources
+D:\Tuan04\BaiTap02\BaiTap02\obj\Debug\BaiTap02.csproj.GenerateResource.Cache
+D:\Tuan04\BaiTap02\BaiTap02\obj\Debug\BaiTap02.exe
+D:\Tuan04\BaiTap02\BaiTap02\obj\Debug\BaiTap02.pdb

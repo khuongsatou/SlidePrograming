@@ -1,0 +1,10 @@
+D:\lt_win\lt_win\bin\Debug\lt_win.exe.config
+E:\Tài liệu\USB\lt_win\lt_win\bin\Debug\lt_win.exe.config
+E:\Tài liệu\USB\lt_win\lt_win\bin\Debug\lt_win.exe
+E:\Tài liệu\USB\lt_win\lt_win\bin\Debug\lt_win.pdb
+E:\Tài liệu\USB\lt_win\lt_win\obj\Debug\lt_win.csprojResolveAssemblyReference.cache
+E:\Tài liệu\USB\lt_win\lt_win\obj\Debug\lt_win.Form1.resources
+E:\Tài liệu\USB\lt_win\lt_win\obj\Debug\lt_win.Properties.Resources.resources
+E:\Tài liệu\USB\lt_win\lt_win\obj\Debug\lt_win.csproj.GenerateResource.Cache
+E:\Tài liệu\USB\lt_win\lt_win\obj\Debug\lt_win.exe
+E:\Tài liệu\USB\lt_win\lt_win\obj\Debug\lt_win.pdb

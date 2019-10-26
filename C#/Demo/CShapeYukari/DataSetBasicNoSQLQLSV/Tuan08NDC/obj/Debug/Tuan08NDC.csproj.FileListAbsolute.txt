@@ -1,0 +1,15 @@
+D:\Tuan08NDC\Tuan08NDC\bin\Debug\Tuan08NDC.exe.config
+D:\Tuan08NDC\Tuan08NDC\obj\Debug\Tuan08NDC.csprojResolveAssemblyReference.cache
+D:\Tuan08NDC\Tuan08NDC\obj\Debug\Tuan08NDC.Form1.resources
+D:\Tuan08NDC\Tuan08NDC\obj\Debug\Tuan08NDC.Properties.Resources.resources
+D:\Tuan08NDC\Tuan08NDC\obj\Debug\Tuan08NDC.csproj.GenerateResource.Cache
+D:\Tuan08NDC\Tuan08NDC\bin\Debug\Tuan08NDC.exe
+D:\Tuan08NDC\Tuan08NDC\bin\Debug\Tuan08NDC.pdb
+D:\Tuan08NDC\Tuan08NDC\obj\Debug\Tuan08NDC.exe
+D:\Tuan08NDC\Tuan08NDC\obj\Debug\Tuan08NDC.pdb
+E:\Tài liệu\USB\Tuan08NDC\Tuan08NDC\bin\Debug\Tuan08NDC.exe.config
+E:\Tài liệu\USB\Tuan08NDC\Tuan08NDC\obj\Debug\Tuan08NDC.exe
+E:\Tài liệu\USB\Tuan08NDC\Tuan08NDC\obj\Debug\Tuan08NDC.pdb
+E:\Tài liệu\CShapeYukari\DataSetBasicNoSQLQLSV\Tuan08NDC\bin\Debug\Tuan08NDC.exe.config
+E:\Tài liệu\CShapeYukari\DataSetBasicNoSQLQLSV\Tuan08NDC\obj\Debug\Tuan08NDC.exe
+E:\Tài liệu\CShapeYukari\DataSetBasicNoSQLQLSV\Tuan08NDC\obj\Debug\Tuan08NDC.pdb

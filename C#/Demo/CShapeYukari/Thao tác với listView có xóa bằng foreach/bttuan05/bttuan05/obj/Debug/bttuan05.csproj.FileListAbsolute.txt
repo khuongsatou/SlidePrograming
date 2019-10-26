@@ -1,0 +1,27 @@
+D:\bttuan05\bttuan05\bin\Debug\bttuan05.exe.config
+D:\bttuan05\bttuan05\bin\Debug\bttuan05.exe
+D:\bttuan05\bttuan05\bin\Debug\bttuan05.pdb
+D:\bttuan05\bttuan05\obj\Debug\bttuan05.csprojResolveAssemblyReference.cache
+D:\bttuan05\bttuan05\obj\Debug\bttuan05.Form1.resources
+D:\bttuan05\bttuan05\obj\Debug\bttuan05.Properties.Resources.resources
+D:\bttuan05\bttuan05\obj\Debug\bttuan05.csproj.GenerateResource.Cache
+D:\bttuan05\bttuan05\obj\Debug\bttuan05.exe
+D:\bttuan05\bttuan05\obj\Debug\bttuan05.pdb
+D:\BT Thay Chuan\bttuan05\bttuan05\bin\Debug\bttuan05.exe.config
+D:\BT Thay Chuan\bttuan05\bttuan05\obj\Debug\bttuan05.exe
+D:\BT Thay Chuan\bttuan05\bttuan05\obj\Debug\bttuan05.pdb
+D:\BT Thay Chuan\bttuan05\bttuan05\bin\Debug\bttuan05.exe
+D:\BT Thay Chuan\bttuan05\bttuan05\bin\Debug\bttuan05.pdb
+D:\BT Thay Chuan\bttuan05\bttuan05\obj\Debug\bttuan05.csprojResolveAssemblyReference.cache
+D:\BT Thay Chuan\bttuan05\bttuan05\obj\Debug\bttuan05.Form1.resources
+D:\BT Thay Chuan\bttuan05\bttuan05\obj\Debug\bttuan05.Properties.Resources.resources
+D:\BT Thay Chuan\bttuan05\bttuan05\obj\Debug\bttuan05.csproj.GenerateResource.Cache
+E:\Zip Save\new 27-3\BT Thay Chuan\bttuan05\bttuan05\bin\Debug\bttuan05.exe.config
+E:\Zip Save\new 27-3\BT Thay Chuan\bttuan05\bttuan05\obj\Debug\bttuan05.exe
+E:\Zip Save\new 27-3\BT Thay Chuan\bttuan05\bttuan05\obj\Debug\bttuan05.pdb
+E:\Zip Save\new 27-3\BT Thay Chuan\bttuan05\bttuan05\bin\Debug\bttuan05.exe
+E:\Zip Save\new 27-3\BT Thay Chuan\bttuan05\bttuan05\bin\Debug\bttuan05.pdb
+E:\Zip Save\new 27-3\BT Thay Chuan\bttuan05\bttuan05\obj\Debug\bttuan05.csprojResolveAssemblyReference.cache
+E:\Zip Save\new 27-3\BT Thay Chuan\bttuan05\bttuan05\obj\Debug\bttuan05.Form1.resources
+E:\Zip Save\new 27-3\BT Thay Chuan\bttuan05\bttuan05\obj\Debug\bttuan05.Properties.Resources.resources
+E:\Zip Save\new 27-3\BT Thay Chuan\bttuan05\bttuan05\obj\Debug\bttuan05.csproj.GenerateResource.Cache

@@ -1,0 +1,6 @@
+D:\Learn\CodeCshape\Basic_start\is_arrayCshape\bin\Debug\is_arrayCshape.exe.config
+D:\Learn\CodeCshape\Basic_start\is_arrayCshape\bin\Debug\is_arrayCshape.exe
+D:\Learn\CodeCshape\Basic_start\is_arrayCshape\bin\Debug\is_arrayCshape.pdb
+D:\Learn\CodeCshape\Basic_start\is_arrayCshape\obj\Debug\is_arrayCshape.csprojResolveAssemblyReference.cache
+D:\Learn\CodeCshape\Basic_start\is_arrayCshape\obj\Debug\is_arrayCshape.exe
+D:\Learn\CodeCshape\Basic_start\is_arrayCshape\obj\Debug\is_arrayCshape.pdb

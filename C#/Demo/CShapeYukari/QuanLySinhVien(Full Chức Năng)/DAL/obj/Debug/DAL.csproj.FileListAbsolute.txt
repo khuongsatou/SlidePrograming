@@ -1,0 +1,14 @@
+D:\CDTH17D\QuanLySinhVien\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\CDTH17D\QuanLySinhVien\DAL\bin\Debug\DAL.dll
+D:\CDTH17D\QuanLySinhVien\DAL\bin\Debug\DAL.pdb
+D:\CDTH17D\QuanLySinhVien\DAL\obj\Debug\DAL.dll
+D:\CDTH17D\QuanLySinhVien\DAL\obj\Debug\DAL.pdb
+D:\CDTH17D\QuanLySinhVien\DAL\bin\Debug\BEL.dll
+D:\CDTH17D\QuanLySinhVien\DAL\bin\Debug\BEL.pdb
+D:\HVH_C#\QuanLySinhVien\DAL\bin\Debug\DAL.dll
+D:\HVH_C#\QuanLySinhVien\DAL\bin\Debug\DAL.pdb
+D:\HVH_C#\QuanLySinhVien\DAL\bin\Debug\BEL.dll
+D:\HVH_C#\QuanLySinhVien\DAL\bin\Debug\BEL.pdb
+D:\HVH_C#\QuanLySinhVien\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\HVH_C#\QuanLySinhVien\DAL\obj\Debug\DAL.dll
+D:\HVH_C#\QuanLySinhVien\DAL\obj\Debug\DAL.pdb

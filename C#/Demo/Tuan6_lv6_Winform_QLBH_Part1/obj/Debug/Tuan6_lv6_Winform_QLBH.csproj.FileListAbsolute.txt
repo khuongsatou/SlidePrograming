@@ -1,0 +1,9 @@
+D:\Learn\CodeCshape\Basic_start\Tuan6_lv6_Winform_QLBH\bin\Debug\Tuan6_lv6_Winform_QLBH.exe.config
+D:\Learn\CodeCshape\Basic_start\Tuan6_lv6_Winform_QLBH\bin\Debug\Tuan6_lv6_Winform_QLBH.exe
+D:\Learn\CodeCshape\Basic_start\Tuan6_lv6_Winform_QLBH\bin\Debug\Tuan6_lv6_Winform_QLBH.pdb
+D:\Learn\CodeCshape\Basic_start\Tuan6_lv6_Winform_QLBH\obj\Debug\Tuan6_lv6_Winform_QLBH.csprojResolveAssemblyReference.cache
+D:\Learn\CodeCshape\Basic_start\Tuan6_lv6_Winform_QLBH\obj\Debug\Tuan6_lv6_Winform_QLBH.Form1.resources
+D:\Learn\CodeCshape\Basic_start\Tuan6_lv6_Winform_QLBH\obj\Debug\Tuan6_lv6_Winform_QLBH.Properties.Resources.resources
+D:\Learn\CodeCshape\Basic_start\Tuan6_lv6_Winform_QLBH\obj\Debug\Tuan6_lv6_Winform_QLBH.csproj.GenerateResource.Cache
+D:\Learn\CodeCshape\Basic_start\Tuan6_lv6_Winform_QLBH\obj\Debug\Tuan6_lv6_Winform_QLBH.exe
+D:\Learn\CodeCshape\Basic_start\Tuan6_lv6_Winform_QLBH\obj\Debug\Tuan6_lv6_Winform_QLBH.pdb

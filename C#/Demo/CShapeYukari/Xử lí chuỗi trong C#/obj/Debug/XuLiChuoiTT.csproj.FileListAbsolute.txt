@@ -1,0 +1,20 @@
+D:\Tuan8\XuLiChuoiTT\bin\Debug\XuLiChuoiTT.exe.config
+D:\Tuan8\XuLiChuoiTT\bin\Debug\XuLiChuoiTT.exe
+D:\Tuan8\XuLiChuoiTT\bin\Debug\XuLiChuoiTT.pdb
+D:\Tuan8\XuLiChuoiTT\obj\Debug\XuLiChuoiTT.csprojResolveAssemblyReference.cache
+D:\Tuan8\XuLiChuoiTT\obj\Debug\XuLiChuoiTT.Form1.resources
+D:\Tuan8\XuLiChuoiTT\obj\Debug\XuLiChuoiTT.Properties.Resources.resources
+D:\Tuan8\XuLiChuoiTT\obj\Debug\XuLiChuoiTT.csproj.GenerateResource.Cache
+D:\Tuan8\XuLiChuoiTT\obj\Debug\XuLiChuoiTT.exe
+D:\Tuan8\XuLiChuoiTT\obj\Debug\XuLiChuoiTT.pdb
+D:\Tuan8\XuLiChuoiTT\obj\Debug\XuLiChuoiTT.Form2.resources
+E:\Tài liệu\USB\XuLiChuoiTT\bin\Debug\XuLiChuoiTT.exe.config
+E:\Tài liệu\USB\XuLiChuoiTT\obj\Debug\XuLiChuoiTT.exe
+E:\Tài liệu\USB\XuLiChuoiTT\obj\Debug\XuLiChuoiTT.pdb
+E:\Tài liệu\USB\XuLiChuoiTT\bin\Debug\XuLiChuoiTT.exe
+E:\Tài liệu\USB\XuLiChuoiTT\bin\Debug\XuLiChuoiTT.pdb
+E:\Tài liệu\USB\XuLiChuoiTT\obj\Debug\XuLiChuoiTT.csprojResolveAssemblyReference.cache
+E:\Tài liệu\USB\XuLiChuoiTT\obj\Debug\XuLiChuoiTT.Form1.resources
+E:\Tài liệu\USB\XuLiChuoiTT\obj\Debug\XuLiChuoiTT.Form2.resources
+E:\Tài liệu\USB\XuLiChuoiTT\obj\Debug\XuLiChuoiTT.Properties.Resources.resources
+E:\Tài liệu\USB\XuLiChuoiTT\obj\Debug\XuLiChuoiTT.csproj.GenerateResource.Cache

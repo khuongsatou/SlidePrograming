@@ -1,0 +1,22 @@
+.container
+{
+	margin-top:20px; 
+}
+
+.a1
+{
+background-color: red;
+height: 150px;
+}
+
+ .a2
+{
+background-color: green;
+height: 300px;
+}
+
+.a3
+{
+background-color: blue;
+height: 100px;
+}

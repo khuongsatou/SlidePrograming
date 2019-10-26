@@ -1,0 +1,7 @@
+D:\ktra\25_NguyenVankhuong_0306171362_CDTH17D\DAL\bin\Debug\DAL.dll
+D:\ktra\25_NguyenVankhuong_0306171362_CDTH17D\DAL\bin\Debug\DAL.pdb
+D:\ktra\25_NguyenVankhuong_0306171362_CDTH17D\DAL\bin\Debug\BEL.dll
+D:\ktra\25_NguyenVankhuong_0306171362_CDTH17D\DAL\bin\Debug\BEL.pdb
+D:\ktra\25_NguyenVankhuong_0306171362_CDTH17D\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\ktra\25_NguyenVankhuong_0306171362_CDTH17D\DAL\obj\Debug\DAL.dll
+D:\ktra\25_NguyenVankhuong_0306171362_CDTH17D\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,19 @@
+﻿Build started 1/19/2019 12:05:53 PM.
+     1>Project "E:\HoTanDat_0306171336_17D\Ai_La_Trieu_Phu\Ai_La_Trieu_Phu\Ai_La_Trieu_Phu.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Choi.cpp DocGhiDuLieu.cpp Play.cpp
+         DocGhiDuLieu.cpp
+         Generating Code...
+         Compiling...
+         Choi.cpp
+     1>e:\hotandat_0306171336_17d\ai_la_trieu_phu\ai_la_trieu_phu\choi.cpp(18): error C2280: 'std::basic_fstream<char,std::char_traits<char>>::basic_fstream(const std::basic_fstream<char,std::char_traits<char>> &)' : attempting to reference a deleted function
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\fstream(1219) : see declaration of 'std::basic_fstream<char,std::char_traits<char>>::basic_fstream'
+                 This diagnostic occurred in the compiler generated function 'DocGhiDuLieu::DocGhiDuLieu(const DocGhiDuLieu &)'
+         Generating Code...
+         Skipping... (no relevant changes detected)
+         Play.cpp
+     1>Done Building Project "E:\HoTanDat_0306171336_17D\Ai_La_Trieu_Phu\Ai_La_Trieu_Phu\Ai_La_Trieu_Phu.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.81

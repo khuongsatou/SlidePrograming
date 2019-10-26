@@ -1,0 +1,9 @@
+D:\HVH_C#\Tuan07BaiTap01\Tuan07BaiTap01\bin\Debug\Tuan07BaiTap01.exe.config
+D:\HVH_C#\Tuan07BaiTap01\Tuan07BaiTap01\bin\Debug\Tuan07BaiTap01.exe
+D:\HVH_C#\Tuan07BaiTap01\Tuan07BaiTap01\bin\Debug\Tuan07BaiTap01.pdb
+D:\HVH_C#\Tuan07BaiTap01\Tuan07BaiTap01\obj\Debug\Tuan07BaiTap01.csprojResolveAssemblyReference.cache
+D:\HVH_C#\Tuan07BaiTap01\Tuan07BaiTap01\obj\Debug\Tuan07BaiTap01.Form1.resources
+D:\HVH_C#\Tuan07BaiTap01\Tuan07BaiTap01\obj\Debug\Tuan07BaiTap01.Properties.Resources.resources
+D:\HVH_C#\Tuan07BaiTap01\Tuan07BaiTap01\obj\Debug\Tuan07BaiTap01.csproj.GenerateResource.Cache
+D:\HVH_C#\Tuan07BaiTap01\Tuan07BaiTap01\obj\Debug\Tuan07BaiTap01.exe
+D:\HVH_C#\Tuan07BaiTap01\Tuan07BaiTap01\obj\Debug\Tuan07BaiTap01.pdb

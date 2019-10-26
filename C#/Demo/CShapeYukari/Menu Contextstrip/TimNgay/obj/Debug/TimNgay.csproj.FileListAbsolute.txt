@@ -1,0 +1,9 @@
+D:\YuKaRi\TimNgay\bin\Debug\TimNgay.exe.config
+D:\YuKaRi\TimNgay\bin\Debug\TimNgay.exe
+D:\YuKaRi\TimNgay\bin\Debug\TimNgay.pdb
+D:\YuKaRi\TimNgay\obj\Debug\TimNgay.csprojResolveAssemblyReference.cache
+D:\YuKaRi\TimNgay\obj\Debug\TimNgay.Form1.resources
+D:\YuKaRi\TimNgay\obj\Debug\TimNgay.Properties.Resources.resources
+D:\YuKaRi\TimNgay\obj\Debug\TimNgay.csproj.GenerateResource.Cache
+D:\YuKaRi\TimNgay\obj\Debug\TimNgay.exe
+D:\YuKaRi\TimNgay\obj\Debug\TimNgay.pdb

@@ -1,0 +1,32 @@
+﻿Build started 12/14/2018 2:45:55 PM.
+     1>Project "D:\khuongSatou\ConsoleApplication2\ConsoleApplication2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt DSSanPham.cpp Main.cpp
+         Main.cpp
+     1>d:\khuongsatou\consoleapplication2\dssanpham.h(9): error C2143: syntax error : missing ';' before '*'
+     1>d:\khuongsatou\consoleapplication2\dssanpham.h(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>d:\khuongsatou\consoleapplication2\dssanpham.h(18): error C2065: 'dsSP' : undeclared identifier
+     1>d:\khuongsatou\consoleapplication2\dssanpham.h(18): error C2061: syntax error : identifier 'Sach'
+     1>d:\khuongsatou\consoleapplication2\dssanpham.h(23): error C2065: 'dsSP' : undeclared identifier
+     1>d:\khuongsatou\consoleapplication2\dssanpham.h(23): error C2061: syntax error : identifier 'SGK'
+     1>d:\khuongsatou\consoleapplication2\dssanpham.h(24): error C2065: 'dsSP' : undeclared identifier
+     1>d:\khuongsatou\consoleapplication2\dssanpham.h(24): error C2061: syntax error : identifier 'STK'
+     1>d:\khuongsatou\consoleapplication2\dssanpham.h(25): error C2065: 'dsSP' : undeclared identifier
+     1>d:\khuongsatou\consoleapplication2\dssanpham.h(25): error C2061: syntax error : identifier 'Truyen'
+         DSSanPham.cpp
+     1>d:\khuongsatou\consoleapplication2\dssanpham.h(9): error C2143: syntax error : missing ';' before '*'
+     1>d:\khuongsatou\consoleapplication2\dssanpham.h(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>d:\khuongsatou\consoleapplication2\dssanpham.h(18): error C2065: 'dsSP' : undeclared identifier
+     1>d:\khuongsatou\consoleapplication2\dssanpham.h(18): error C2061: syntax error : identifier 'Sach'
+     1>d:\khuongsatou\consoleapplication2\dssanpham.h(23): error C2065: 'dsSP' : undeclared identifier
+     1>d:\khuongsatou\consoleapplication2\dssanpham.h(23): error C2061: syntax error : identifier 'SGK'
+     1>d:\khuongsatou\consoleapplication2\dssanpham.h(24): error C2065: 'dsSP' : undeclared identifier
+     1>d:\khuongsatou\consoleapplication2\dssanpham.h(24): error C2061: syntax error : identifier 'STK'
+     1>d:\khuongsatou\consoleapplication2\dssanpham.h(25): error C2065: 'dsSP' : undeclared identifier
+     1>d:\khuongsatou\consoleapplication2\dssanpham.h(25): error C2061: syntax error : identifier 'Truyen'
+         Generating Code...
+     1>Done Building Project "D:\khuongSatou\ConsoleApplication2\ConsoleApplication2.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.75

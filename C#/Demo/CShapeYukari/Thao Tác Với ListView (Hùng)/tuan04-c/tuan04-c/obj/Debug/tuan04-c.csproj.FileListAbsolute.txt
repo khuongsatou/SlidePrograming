@@ -1,0 +1,9 @@
+D:\cdth17d\tuan04-c\tuan04-c\bin\Debug\tuan04-c.exe.config
+D:\cdth17d\tuan04-c\tuan04-c\bin\Debug\tuan04-c.exe
+D:\cdth17d\tuan04-c\tuan04-c\bin\Debug\tuan04-c.pdb
+D:\cdth17d\tuan04-c\tuan04-c\obj\Debug\tuan04-c.csprojResolveAssemblyReference.cache
+D:\cdth17d\tuan04-c\tuan04-c\obj\Debug\tuan04_c.Form1.resources
+D:\cdth17d\tuan04-c\tuan04-c\obj\Debug\tuan04_c.Properties.Resources.resources
+D:\cdth17d\tuan04-c\tuan04-c\obj\Debug\tuan04-c.csproj.GenerateResource.Cache
+D:\cdth17d\tuan04-c\tuan04-c\obj\Debug\tuan04-c.exe
+D:\cdth17d\tuan04-c\tuan04-c\obj\Debug\tuan04-c.pdb

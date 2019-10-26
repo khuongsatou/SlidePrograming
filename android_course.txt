@@ -1,0 +1,166 @@
+* : basic (fundamental of android)
+** : intermediate (for working at company)
+***: optional (for a advance specific purpose)
+**** : don't need to learn (should learn when we use in a specific project)
+
+-----------------------------------------------------------------------------
+1. Activity (*)
+	- The Activity Lifecycle and Managing State (*)
+	- Understanding Activities and Intents(*)
+	- Send and receive data between activity (*)
+
+2. Tool for android development (*)
+	- Git (*)
+	- Android studio (*)
+	- Debug (*)
+	- Log (*)
+
+3. Resource (*)
+ 3.1 Layout & View (*)
+	- Layout overviewv
+	- Common layout (View,Buttom, TextView, Edittext, ImageView,...) (*)
+	- Container layout(LinearLayout, RelativeLayout, FrameLayout) (*)
+	- Custom layout, view (*)
+	- ( Bỏ phần Table layout, gridlayout vì thực thế ít dùng, và Linearlayout, có thể thay thế dc cho 2 thằng này)
+ 3.2 Drawable, shape, style, theme, color , selector, ripple...  (*)
+
+4. Important component (*)
+	- Fragment  (*)
+		- Push, pop fragment
+		- Send, receive data between fragments
+	- ViewPager (*)
+	- RecyclerView (*)
+	- Option menu (*)
+	- CardView (*)
+	- date time picker (*)
+
+5. Principle & Convention (*)
+	- Code convention (*)
+	- Material design guideline (*)
+
+6. Background Task (*)
+	- Multithread (Asyntask, thread) (*)
+	- Service (unbound service, bound service, intent service) (*)
+
+7. Store data (*)
+	- Sqlite (room) (*)
+	- Share Preference (*)
+	- Serializable (*)
+	- parcelable (*)
+
+8. Communication (*)
+	- Broadcast (*)
+	- Evenbus (*)
+	- Notification (*)
+	- Toast (*)
+
+9. Permission (*)
+
+10. Publish app (****)
+
+11. Localise language (**)
+
+12. Working with http api(send/request http using retrofit)(**)
+
+13. Android jetpack(very important)(**)
+	- Foundation 
+		+ AppCompat(**)
+		+ Android KTX(**)
+		+ Multidex(***)
+		+ Test(***)
+	- Architecture(**)
+		+ Data Binding(***)
+		+ Lifecycle(***)
+		+ LiveData(***)
+		+ Navigationv
+		+ Paging(***)
+		+ Room(**)
+		+ ViewModel(***)
+		+ WorkManager(**)
+	- Behavior (**)
+		+ Download manager(**)
+		+ Media & playback(****)
+		+ Notifications(**)
+		+ Permissions(**)
+		+ Sharing(****)
+		+ Slices(****)
+	- UI (****)
+		+ Animation & transitions
+		+ Auto 
+		+ Emoji
+		+ Fragment
+		+ Layout
+		+ Palette
+		+ TV
+		+ Wear OS by Google
+
+14. Extra library(**)
+	- commons-lang3 (manipulate string)(**)
+	- joda-time(**)
+	- material-dialogs(**)
+	- Dagger (***)
+	- Butter knife (***)
+
+15. Kotlin (**)
+	- Basic
+		+ Basic type
+		+ Control Flow (if, when, for, while)
+		+ Returns and Jumps
+	- Classes and objects
+		Classes and Inheritance
+		+ Properties and Fields
+		+ Interfaces
+		+ Visibility Modifiers
+		+ Extensions
+		+ Data Classes
+		+ Sealed Classes
+		+ Generics
+		+ Nested Classes
+		+ Enum Classes
+		+ Objects
+		+ Type Aliases
+		+ Inline Classes
+		+ Delegation
+		+ Delegated Properties
+	-  Function and Lambdas
+		+ Functions
+		+ Lamdbas
+		+ Inline Functions
+
+16. Testing(***)
+	- unit test
+
+17. Firebase (***)
+	- Analytics (**)
+	- cloud messaging(**)
+	- Authentication (***)
+	- Realtime Database(**)
+	- Storage(**)
+	- Remote Config (***)
+	- Test Lab(***)
+	- App Indexing(***)
+	- Cloud Fucntions for Firestore(***)
+	- In-app Messaging (***)
+	- Ml Kit(***)
+	- Invites(***)
+	- Admob(**)
+	- Firestore(***)
+
+18. Reactive programming with rxjava (**)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
